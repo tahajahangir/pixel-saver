@@ -49,6 +49,7 @@
 /* Style for the close button */
 .close {
 	background-image: url('close.svg');
+	width: 0;
 }
 
 .close:hover {
